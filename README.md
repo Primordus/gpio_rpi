@@ -1,2 +1,5 @@
-# gpio_rpi
-Arduino-like interface for controlling the Raspberry Pi (2) GPIO's from Elixir/Erlang.
+# GPIO for Raspberry Pi (2)
+
+Provides an Arduino-like interface for controlling the GPIO pins
+of the Raspberry Pi from Elixir/Erlang.
+
